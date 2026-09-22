@@ -57,6 +57,29 @@
     "urlImage": "https://i.pinimg.com/736x/30/cb/d0/30cbd02e0e795d455efe51b38c50b31c.jpg",
     "nomeClubes": "Titanic clube"
   }
-]
+],
+
+  "resenhas": [
+    {
+      "titulo": "Resenha do Livro: Os dois morrem no final",
+      "imagem": "https://m.media-amazon.com/images/I/61QhNRjycfL._AC_UF1000,1000_QL80_.jpg",
+      "texto": "Uma história emocionante e dolorosa sobre valorizar cada segundo. Mateo e Rufus recebem a ligação da Central da Morte avisando que têm menos de 24 horas de vida. Eles se conectam pelo aplicativo Último Amigo para viver uma jornada inesquecível sobre conexão, amor e despedida."
+    },
+    {
+      "titulo": "Resenha do Livro: Quinze Dias",
+      "imagem": "https://m.media-amazon.com/images/I/51OYESeM8eL._AC_UF1000,1000_QL80_.jpg",
+      "texto": "Um romance nacional leve, acolhedor e muito necessário. Felipe é um garoto inseguro com seu corpo que vê suas férias mudarem completamente quando Henrique, seu vizinho e crush de infância, precisa passar 15 dias hospedado em sua casa. Uma leitura quentinha sobre autoaceitação e amadurecimento."
+    },
+    {
+      "titulo": "Resenha do Livro: A Biblioteca da Meia-Noite",
+      "imagem": "https://m.media-amazon.com/images/I/81iqH8dpjuL._AC_UF1000,1000_QL80_.jpg",
+      "texto": "E se você pudesse desfazer todos os seus arrependimentos? Nora Seed se encontra em uma biblioteca infinita entre a vida e a morte, onde cada livro permite viver uma vida diferente baseada em escolhas do passado. Uma reflexão profunda e inspiradora sobre o sentido da vida."
+    },
+    {
+      "titulo": "Resenha do Livro: Vermelho Branco e Sangue Azul",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzejuPTmIqVdbbHvmxV1vqKgMfJqxs1tiin69iDaWz4w&s=10",
+      "texto": "Um romance apaixonante e divertido no estilo enemies to lovers. Quando Alex, o filho da presidenta dos Estados Unidos, se envolve em uma briga pública com Henry, o príncipe da Inglaterra, os dois são forçados a simular uma trégua e fingir que são amigos. Dessa amizade forçada surge um sentimento secreto que pode causar um escândalo internacional e mudar a política dos dois países."
+    }
+  ]
   
 }
